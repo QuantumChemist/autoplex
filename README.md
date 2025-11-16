@@ -1,3 +1,5 @@
+> eine MCP server integration mit templated prompts, um Halluzinationen zu reduzieren, wäre nice (CE)
+
 [![Testing Linux](https://github.com/JaGeo/autoplex/actions/workflows/python-package.yml/badge.svg)](https://github.com/JaGeo/autoplex/actions/workflows/python-package.yml) [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/autoatml/autoplex/main.svg)](https://results.pre-commit.ci/latest/github/autoatml/autoplex/main) [![DOI](https://zenodo.org/badge/671124251.svg)](https://doi.org/10.5281/zenodo.14105049) ![supported python versions](https://img.shields.io/pypi/pyversions/autoplex) [![PyPI version](https://badge.fury.io/py/autoplex.svg)](https://badge.fury.io/py/autoplex)
 
 <img src="docs/_static/autoplex_logo.png" width="66%">
